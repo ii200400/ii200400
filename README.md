@@ -50,11 +50,13 @@
 
 + 2019-03 ~ 2019-06 / 2019-09 ~ 2019-12
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/> <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/> + PYQT5
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=Qt&logoColor=white"/> (PyQt5) <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/> <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ii200400&repo=SpineAnalyzer)](https://github.com/ii200400/SpineAnalyzer)
 
 ### Trimm app SW 날씨 모듈
+
++ 2017.12 ~ 2018.06
 
 <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/> <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/>
 
@@ -74,11 +76,26 @@
 
 + 2019.09.29 ~
 
-취준을 위한 내맛대로 CS(Computer Science) 정리 레포지토리
+취준을 위한 내맛대로 CS(Computer Science) 정리 레포지토리   
+[Interview_Question_for_Beginner](https://github.com/JaeYeopHan/Interview_Question_for_Beginner) 저장소와 영문 위키를 기준으로 개인적으로 CS를 정리하였다.    
+
+위의 저장소를 그대로 볼 수도 있지만...   
+오래전에 저장되어 업데이트가 되지 않은 부분과 영문 위키를 의역하지 않고 직역하여 올린 것들 등   
+부족한 점과 이해하기 힘든 점이 너무많아 개인적으로 다시 정리하고 있다.   
+실재로 큰 목차는 위의 저장소를 따라가고 있지만 내용은 크게 달라지는 점이 많다.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ii200400&repo=IT_Skill_Question)](https://github.com/ii200400/IT_Skill_Question)
 
 ### 알고리즘 레포지토리
+
++ 2019.12.24 ~ 
+
+2017년부터 취미로 소소하게 풀었던 알고리즘 코드들을 모아두고 정리해둔 레포   
+초창기에 C++로 풀었던 코드는 당시 저장의 중요성을 몰라 남은 것이 없고   
+그 이후의 Python으로 풀면서 구글 드라이브에 저장했던 문제들이 대다수를 차지한다.   
+최근에는 안드로이드 개발자로 전향하면서 Kotlin으로 문제를 풀어나가는 중이다.
+
+참고로 Readme에 정리된 코드들은 대부분 Kotlin으로 해결한 것들이다.
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
 
