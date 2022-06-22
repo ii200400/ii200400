@@ -3,8 +3,8 @@
 <img src="https://img.shields.io/badge/dudtjs972@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 
 안녕하세요! 👋   
-저는 모바일 안드로이드 앱 개발자로 성장하고있는 임영선입니다~ 🌱   
-👀 MVVM 디자인 패턴에 관심이 생겨서 관련 기술을 공부하는 중이예요!
+2022년 1월에 SSAFY에 합격해서 뜻하지 않게 웹 공부를 하고있어요~ 🌱   
+👀 현재는 백엔드 관련 기술을 정리하는 중이예요!
 
 <br/>
 
@@ -12,9 +12,9 @@
 
 ### Platforms & Languages
 
-<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/Java-43A047?style=flat-square&logo=Java&logoColor=white"/>
 
 ### Tools
 
