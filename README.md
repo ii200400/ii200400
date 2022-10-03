@@ -3,8 +3,8 @@
 <img src="https://img.shields.io/badge/dudtjs972@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 
 안녕하세요! 👋   
-2022년 1월에 SSAFY에 합격해서 뜻하지 않게 웹 공부를 하고있어요~ 🌱   
-👀 현재는 백엔드 관련 기술을 정리하는 중이예요!
+2022년 1월에 SSAFY에 합격해서 뜻하지 않게 웹 공부를 IoT 프로젝트를 진행하고 있어요~ 🌱   
+👀 현재는 임베디드 관련 기술을 정리하는 중이예요!
 
 <br/>
 
