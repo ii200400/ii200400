@@ -12,19 +12,104 @@
 
 ### Platforms & Languages
 
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+<details>
+<summary>Python (중)</summary>
+<div markdown="1">
+다양한 라이브러리를 활용하여 알고리즘을 구현하거나 프로젝트를 진행할 수 있습니다. 
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/Java-43A047?style=flat-square&logo=Java&logoColor=white"/>
+코딩테스트를 할 때, 라즈베리파이에 AI(얼굴인식)을 활용할 때, ROS 통신을 통한 자율주행 프로젝트(알파카)를 진행할 때 사용하였습니다.
+</div>
+</details>
+
+<details>
+<summary>Java (중)</summary>
+<div markdown="1">
+다양한 라이브러리를 활용하여 알고리즘을 구현하거나 프로젝트를 진행할 수 있습니다. 상속이나 캡슐화 등 자바 객체지향에 대한 이해를 기반으로 Java Beans 를 기반으로하는 객체를 구현할 수 있습니다. 
+
+코딩테스트를 할 때, 웹 페이지를 만들기 위해 spring boot를 통해 사용한 경험이 있습니다.
+</div>
+</details>
+
+<details>
+<summary>C/C++ (하)</summary>
+<div markdown="1">
+간단한 알고리즘이나 큐, 스택, 정렬 알고리즘을 직접 구현할 수 있습니다. 
+
+IoT 프로젝트에서 아두이노를 사용하기 위해 사용하였습니다.
+</div>
+</details>
+
+<details>
+<summary>Raspbarry Pi (하)</summary>
+<div markdown="1">
+작성
+</div>
+</details>
+
+<details>
+<summary>Arduino (하)</summary>
+<div markdown="1">
+작성
+</div>
+</details>
+
+<details>
+<summary>ROS (하)</summary>
+<div markdown="1">
+작성
+</div>
+</details>
+
+<details>
+<summary>Linux (하)</summary>
+<div markdown="1">
+작성
+</div>
+</details>
 
 ### Tools
 
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+<details>
+<summary>Git (중)</summary>
+<div markdown="1">
+작성
+</div>
+</details>
+
+<details>
+<summary>Jira (하)</summary>
+<div markdown="1">
+작성
+</div>
+</details>
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ii200400&layout=compact)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ii200400&show_icons=true&count_private=true)
 
-## 프로젝트 간단 소개
+## 프로젝트 소개
+
+### 삼성 청년 소프트웨어 아카데미 (SSAFY)
+
+2022.01~2023.01(예정)
+
+![image](https://user-images.githubusercontent.com/19484971/203851349-ebacae18-cc78-4643-857c-8d69d8a9d8e2.png)
+
+- [상상놀이터 노션](https://quill-peripheral-d93.notion.site/ed5a71762fd1428097710fd05e435e20)
+- [상상놀이터 깃허브](https://lab.ssafy.com/s07-webmobile3-sub2/S07P12D204)
+
+### 알파카(Alpha car)
+
+- [알파카(자율주행 프로젝트) 노션](https://determined-elderberry-389.notion.site/5a5568486fbd4730ab43569cce17472c)
+- [알파카(자율주행 프로젝트) 깃허브](https://lab.ssafy.com/s07-mobility-autodriving-sub2/S07P22D208)
+
+### SVM 시스템
+
+
+
+- [SVM 시스템 노션](https://determined-elderberry-389.notion.site/5a5568486fbd4730ab43569cce17472c)
+- [SVM 시스템 깃허브](https://lab.ssafy.com/s07-final/S07P31D108)
 
 ### 자율주행차의 도로주행을 위한 운영체계 및 교통인프라 연구개발
 
