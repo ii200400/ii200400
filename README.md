@@ -1,117 +1,137 @@
-# 게으른너구리의 코딩 저장소
+# 코딩 저장소
 
-<img src="https://img.shields.io/badge/dudtjs972@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ii200400&layout=compact)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ii200400&show_icons=true&count_private=true)
 
 안녕하세요! 👋   
-2022년 1월에 SSAFY에 합격해서 1학기에는 기초 코딩과 웹 공부를 2학기에는 IoT 프로젝트를 진행하고 있어요~ 🌱   
+2022년 1월에 SSAFY에 합격해서 1학기에는 기초 코딩과 웹 공부를 2학기에는 웹 IoT, 자율주행, SVM 프로젝트를 진행하면서 임베디드 전문가로 성장하고 있습니다!🌱   
 👀 현재는 임베디드 관련 기술을 정리하는 중이예요!
+
+<img src="https://img.shields.io/badge/dudtjs972@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 
 <br/>
 
 ## Skill
 
-### Platforms & Languages
+### Languages
+
+<details>
+<summary>C/C++ (하)</summary>
+<div markdown="1">
+리스트, 스택, 큐와 같은 간단한 자료구조를 포인터나 구조체를 활용하여 직접 구현할 수 있으며 순열, 그래프 탐색 등의 알고리즘을 구현할 수 있습니다. 아두이노에서 다양한 센서를 활용하거나 SVM 영상처리에 사용하였습니다.
+</div>
+</details>
 
 <details>
 <summary>Python (중)</summary>
 <div markdown="1">
-다양한 라이브러리를 활용하여 알고리즘을 구현하거나 프로젝트를 진행할 수 있습니다. 
-
-코딩테스트를 할 때, 라즈베리파이에 AI(얼굴인식)을 활용할 때, ROS 통신을 통한 자율주행 프로젝트(알파카)를 진행할 때 사용하였습니다.
+코딩테스트에서 가장 자주 사용한 언어로 순열, 다익스트라, 동적계획법 등 다양한 알고리즘을 구현할 수 있습니다. 텐서플로우를 활용하여 간단한 AI를 구현해보거나 라즈베리파이에 얼굴인식 라이브러리를 활용한 기능을 넣을 때, ROS를 활용하여 자율주행 알고리즘을 구현할 때 사용하였습니다.
 </div>
 </details>
 
 <details>
 <summary>Java (중)</summary>
 <div markdown="1">
-다양한 라이브러리를 활용하여 알고리즘을 구현하거나 프로젝트를 진행할 수 있습니다. 상속이나 캡슐화 등 자바 객체지향에 대한 이해를 기반으로 Java Beans 를 기반으로하는 객체를 구현할 수 있습니다. 
-
-코딩테스트를 할 때, 웹 페이지를 만들기 위해 spring boot를 통해 사용한 경험이 있습니다.
+SSAFY에서 객체지향에 대한 기초과정을 시작으로 자료구조, 알고리즘 수업을 듣고 삼성 SW 역량테스트 모의시험에서 A+을 취득하였습니다. 익명함수(람다식)을 활용하여 정렬하거나 웹 서비스를 구현할 때 정규표현식을 활용하여 입력값의 조건을 넣기도 하였습니다.
 </div>
 </details>
 
-<details>
-<summary>C/C++ (하)</summary>
-<div markdown="1">
-간단한 알고리즘이나 큐, 스택, 정렬 알고리즘을 직접 구현할 수 있습니다. 
-
-IoT 프로젝트에서 아두이노를 사용하기 위해 사용하였습니다.
-</div>
-</details>
+### Collaboration Tool
 
 <details>
-<summary>Raspbarry Pi (하)</summary>
+<summary>Github, Gitlab (하)</summary>
 <div markdown="1">
-작성
-</div>
-</details>
-
-<details>
-<summary>Arduino (하)</summary>
-<div markdown="1">
-작성
-</div>
-</details>
-
-<details>
-<summary>ROS (하)</summary>
-<div markdown="1">
-작성
-</div>
-</details>
-
-<details>
-<summary>Linux (하)</summary>
-<div markdown="1">
-작성
-</div>
-</details>
-
-### Tools
-
-<details>
-<summary>Git (중)</summary>
-<div markdown="1">
-작성
+프로젝트 소스코드 관리나 백준 알고리즘 해결코드 및 배운 내용을 정리하기 위해 사용합니다. 브랜치(Branch)를 만들어 원하는 버전을 따로 관리하거나 병합(Merge)하는 방법을 알고 있으며 충돌(Conflict)이 일어나면 해결할 수 있습니다.
 </div>
 </details>
 
 <details>
 <summary>Jira (하)</summary>
 <div markdown="1">
-작성
+애자일 방법론을 기반으로 프로젝트 일정관리 할 때 사용하였습니다. 주마다 sprint를 생성하고 프로젝트마다 Epic, Story, Task로 작업의 분류를 나눠 이슈를 관리하면서 작업을 진행하였습니다.
 </div>
 </details>
 
+### Development Environment
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ii200400&layout=compact)
+<details>
+<summary>Linux (하)</summary>
+<div markdown="1">
+대학교 1학년 때, C언어 수업에서 GUI가 없는 Linux 환경을 접한 것을 시작으로 Oracle의 VirtualBox를 활용하여 Ubuntu를 설치하거나 라즈베리파이의 Raspbian을 통해 접하였습니다. 파일이나 패키지를 확인하는 명령어, 미러저장소 및 방화벽 환경설정을 다뤄보았고 패키지 관련 에러가 일어났을 때 구글링을 통해 해결할 수 있습니다.
+</div>
+</details>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ii200400&show_icons=true&count_private=true)
+<details>
+<summary>ROS (하)</summary>
+<div markdown="1">
+자율주행 프로젝트를 진행하면서 ROS의 파일 구조와 용어를 숙지했습니다. 여러 노드 간 다양한 메시지를 비동기 방식(Publish, Subscribe)으로 주고받으며 프로젝트를 진행하였습니다.
+</div>
+</details>
+
+<details>
+<summary>Arduino IDE (하)</summary>
+<div markdown="1">
+아두이노 UNO 혹은 LOLIN mini D1 보드에 C언어 코드를 업로드할 때 사용하였습니다. 초음파 센서나 온습도 센서 등 센서를 조작하거나 WebSocket 라이브러리를 활용하여 무선으로 데이터를 전달해보았습니다.
+</div>
+</details>
+
+<details>
+<summary>Visual Studio (하)</summary>
+<div markdown="1">
+C언어를 사용하여 알고리즘을 구현하거나 openGL을 활용한 SVM을 만들 때 사용하였습니다. 외부 라이브러리를 추가하는 방법이나 설정에 맞게 빌드를 하였습니다. 필요하다면 종속성이 있는 라이브러리나 DLL 파일을 추가할 수 있습니다.
+</div>
+</details>
+
+<details>
+<summary>Fritzing (하)</summary>
+<div markdown="1">
+아두이노 보드를 활용하여 원하는 장비를 제작할 때 사용했던 Cad Tool 입니다. 이를 활용해서 원하는 장비를 고안했을 때 생각한 설계가 잘못되었다는 것을 빠르게 알고 대처할 수 있었습니다.
+</div>
+</details>
+
+## 외부 교육
+
+### 삼성청년SW아카데미(SSAFY)
+
+- 2022.01 ~ 2022.12
+
+청년 소프트웨어 인재 양성 교육 과정으로 7기로 입과하여 코딩 및 알고리즘 기본과정과 임베디드 프로젝트를 진행하며 아두이노, 라즈베리파이, ROS 등의 기술을 배웠습니다.
+
+
+## 경력
+
+### 지오앤(Geo&)
+
+- 2020.06 ~ 2021.08
+
+- 직급 : 사원
+- 주 업무 : 안드로이드 개발자로 입사하여 회사에서 개발 중인 임베디드 기기와 블루투스 통신을 통해 GPS 데이터를 보정하는 앱 개발을 진행하였습니다.
+- 퇴사 사유 : 신기술을 활용한 모바일 SW와 임베디드 기기를 만들어 판매한다고 하였으나, 그렇지 못한 방향의 프로젝트만을 진행하게 되어 퇴사하였습니다.
 
 ## 프로젝트 소개
 
-### 삼성 청년 소프트웨어 아카데미 (SSAFY)
+### 상상놀이터
 
-2022.01~2023.01(예정)
+2022.01 ~ 2022.12
 
 ![image](https://user-images.githubusercontent.com/19484971/204710388-84b6cac8-4dc4-492a-b369-726486cd2cb9.PNG)
 ![image](https://user-images.githubusercontent.com/19484971/203878110-7798ec2c-3108-48c8-9e68-6f97370d0065.png)
 
 - [상상놀이터 노션](https://quill-peripheral-d93.notion.site/ed5a71762fd1428097710fd05e435e20)
-- [상상놀이터 깃허브](https://lab.ssafy.com/s07-webmobile3-sub2/S07P12D204)
+- [상상놀이터 깃허브](https://github.com/ii200400/imaginary_playground/blob/develop/README.md)
+- [상상놀이터 인터뷰](https://www.youtube.com/watch?v=zck0G1kbDmA&ab_channel=%EC%82%BC%EC%84%B1%EC%B2%AD%EB%85%84SW%EC%95%84%EC%B9%B4%EB%8D%B0%EB%AF%B8Youtube%EC%B1%84%EB%84%90HELLOSSAFY)
 
 ### 알파카(Alpha car)
 
 - [알파카(자율주행 프로젝트) 노션](https://determined-elderberry-389.notion.site/5a5568486fbd4730ab43569cce17472c)
-- [알파카(자율주행 프로젝트) 깃허브](https://lab.ssafy.com/s07-mobility-autodriving-sub2/S07P22D208)
+- 스켈레톤 코드 반출 불가 서약서로 인하여 [프로젝트 내용 정리 깃허브](https://github.com/ii200400/IT_Skill_Question/tree/master/JobGroup/mobility)로 대체
+- [다양한 자율주행 영상모음](https://determined-elderberry-389.notion.site/1518071df6014a47bc14f24956136105)
 
 ### SVM 시스템
 
-
-
 - [SVM 시스템 노션](https://determined-elderberry-389.notion.site/5a5568486fbd4730ab43569cce17472c)
-- [SVM 시스템 깃허브](https://lab.ssafy.com/s07-final/S07P31D108)
-- [다양한 자율주행 영상모음](https://www.notion.so/1518071df6014a47bc14f24956136105)
+- [SVM 시스템 깃허브](https://github.com/ii200400/SVM_system)
 
 ### 자율주행차의 도로주행을 위한 운영체계 및 교통인프라 연구개발
 
