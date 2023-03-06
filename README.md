@@ -39,13 +39,12 @@
 
 - 정리한 깃허브를 보고 싶으시다면? <a href="https://github.com/ii200400/algorithm">IT_Skill_Question 레포지토리!</a> 
 
-<br/>
-
 ### 학력
 
 - 백양고등학교 (2012.03~2015.02)
 - 한국항공대학교 (소프트웨어학과, 2015.03~2020.02)
 
+<br>
 
 ## 경력
 
@@ -55,6 +54,8 @@
 
 - 직급 : 사원
 - 주 업무 : 안드로이드 개발자로 입사하여 회사에서 개발 중인 임베디드 기기와 블루투스 통신을 통해 GPS 데이터를 보정하는 앱 개발
+
+<br>
 
 ## 외부 교육
 
@@ -81,7 +82,7 @@
  </div>
 </details>
 
-<br/>
+<br>
 
 ## Skill
 
@@ -190,6 +191,8 @@
 </div>
 </details>
 
+<br>
+
 ## 프로젝트 소개
 
 ### 🎪 상상놀이터
@@ -273,6 +276,8 @@
 - [상상놀이터 깃허브](https://github.com/ii200400/imaginary_playground/blob/develop/README.md)
 - [상상놀이터 인터뷰](https://www.youtube.com/watch?v=zck0G1kbDmA&ab_channel=%EC%82%BC%EC%84%B1%EC%B2%AD%EB%85%84SW%EC%95%84%EC%B9%B4%EB%8D%B0%EB%AF%B8Youtube%EC%B1%84%EB%84%90HELLOSSAFY)
 
+<br>
+
 ### 🚖 알파카(Alpha car)
 
 ![image](https://user-images.githubusercontent.com/19484971/223026181-abe5376a-5a84-431a-a42d-7c60df73a79c.png)
@@ -318,6 +323,8 @@
 - [알파카(자율주행 프로젝트) 노션](https://determined-elderberry-389.notion.site/5a5568486fbd4730ab43569cce17472c)
 - 스켈레톤 코드 반출 불가 서약서로 인하여 [프로젝트 README](https://github.com/ii200400/IT_Skill_Question/tree/master/JobGroup/mobility/AlphaCar)로 대체
 - [다양한 자율주행 영상모음](https://determined-elderberry-389.notion.site/1518071df6014a47bc14f24956136105)
+
+<br>
 
 ### 🛒 SVM 시스템
 
@@ -384,17 +391,23 @@
 
 - [SVM 시스템 깃허브](https://github.com/ii200400/SVM_system)
 
+<br>
+
 ### 자율주행차의 도로주행을 위한 운영체계 및 교통인프라 연구개발
 
 + 2020.12 ~ 2021.08 (약 7개월)
 
 <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/Bluetooth-0082FC?style=flat-square&logo=Bluetooth&logoColor=white"/>
 
+<br>
+
 ### 청년창업사관학교
 
 + 2020.06 ~ 2020.12
 
 <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/Bluetooth-0082FC?style=flat-square&logo=Bluetooth&logoColor=white"/>
+
+<br>
 
 ### Yepago(예파고)
 
@@ -404,6 +417,8 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ii200400&repo=Yepago_page)](https://github.com/ii200400/Yepago_page)
 
+<br>
+
 ### SpineAnalyzer
 
 + 2019-03 ~ 2019-06 / 2019-09 ~ 2019-12
@@ -412,11 +427,15 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ii200400&repo=SpineAnalyzer)](https://github.com/ii200400/SpineAnalyzer)
 
+<br>
+
 ### Trimm app SW 날씨 모듈
 
 + 2017.12 ~ 2018.06
 
 <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/> <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/>
+
+<br>
 
 ## 자기계발
 
