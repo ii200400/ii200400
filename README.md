@@ -37,7 +37,7 @@
 </div>
 </details>
 
-- 정리한 깃허브를 보고 싶으시다면? <a href="https://github.com/ii200400/algorithm">IT_Skill_Question 레포지토리!</a> 
+- 정리한 깃허브를 보고 싶으시다면? <a href="https://github.com/ii200400/IT_Skill_Question">IT_Skill_Question 레포지토리!</a> 
 
 ### 학력
 
