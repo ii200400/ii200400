@@ -39,31 +39,18 @@
 
 - 정리한 깃허브를 보고 싶으시다면? <a href="https://github.com/ii200400/IT_Skill_Question">IT_Skill_Question 레포지토리!</a> 
 
-### 학력
+### 타임라인
 
 - 백양고등학교 (2012.03~2015.02)
 - 한국항공대학교 (소프트웨어학과, 2015.03~2020.02)
-
-<br>
-
-## 경력
-
-### 지오앤(Geo&)
-
-- 2020.06 ~ 2021.08 (1년 2개월)
-
-- 직급 : 사원
-- 주 업무 : 안드로이드 개발자로 입사하여 회사에서 개발 중인 임베디드 기기와 블루투스 통신을 통해 GPS 데이터를 보정하는 앱 개발
-
-<br>
-
-## 외부 교육
-
-### 삼성청년SW아카데미(SSAFY)
-
-- 2022.01 ~ 2022.12 (1년)
-
-청년 소프트웨어 인재 양성 교육 과정으로 7기로 입과하여 코딩 및 알고리즘 기본과정과 임베디드 프로젝트를 진행하며 아두이노, 라즈베리파이, ROS 등의 기술 학습
+- 지오앤(Geo&, 2020.06 ~ 2021.08)
+  - 1년 2개월 간 안드로이드 개발자로 재직
+  - 회사에서 개발 중인 임베디드 기기와 블루투스 통신을 통해 GNSS 데이터를 보정하는 앱 개발
+- 삼성청년SW아카데미(SSAFY, 2022.01 ~ 2022.12)
+  - 삼성에서 주관하는 외부교육으로 개발자의 기초인 웹을 공부하기 위해 7기로 입과
+  - 1학기에는 코딩 및 알고리즘 기본과정을, 2학기에는 임베디드 프로젝트를 진행
+  - 웹IoT프로젝트(상상놀이터), 자율주행 프로젝트(알파카), SVM 프로젝트를 계획부터 베포까지 경험
+  - 프로젝트를 통해 아두이노, 라즈베리파이, ROS, openGL 등의 기술 학습
 
 <details>
 <summary>성과 목록</summary>
@@ -194,6 +181,46 @@
 <br>
 
 ## 프로젝트 소개
+
+### 🌦 Trimm app SW 날씨 모듈
+
+<img src="https://github.com/ii200400/weatherTask/raw/master/image/example1.jpg" width="25%">  <img src="https://github.com/ii200400/weatherTask/blob/master/image/example2.jpg" width="25%">
+
+- 자전거 네비게이션 앱을 만드는 회사(trimme bike)의 날씨 모듈을 만드는 작업을 진행
+  - 1인 안드로이드 앱 개발 (2018.01 ~ 2018.06)
+  - Android Studio 3.0, Kotlin, Xcode, Swift 활용하여 안드로이드/IOS 앱 제작
+  - 회사의 디자이너와 사원 간 협업
+- 담당 작업
+  - Openweathermap의 weather API와 공공데이터포털의 한국환경공단_에어코리아_대기오염정보 조회 서비스 API를 활용하여 날씨,자외선, 미세먼지 정보 제공
+  - 14개국에 대한 언어 로컬라이징
+- 어려웠던 점
+  - 공공데이터포털의 API는 TM 좌표계를 활용하여 GPS 좌표계를 TM 좌표계로 변환하는 코드가 필요
+  - TM 좌표계가 2015년도 경 다른 방식으로 변경되었다는 글이 있었지만, 실재로는 변경되지 않은 좌표계를 여전히 사용
+  - 디자인이 도중 크게 변동
+  - 각 국가별 날씨 제공 웹 페이지를 참고하여 로컬라이징(번역) 진행
+- 참고
+  - [예시 동영상](https://www.youtube.com/watch?v=KW5xWBqVy0E&ab_channel=%EC%9E%84%EC%98%81%EC%84%A0)
+
+### 🤷‍♀️ Posture Fairy
+
+<img src="https://github.com/ii200400/SpineAnalyzer/blob/master/image/%EA%B7%B8%EB%A6%BC1.png" width="40%">  <img src="https://github.com/ii200400/SpineAnalyzer/blob/master/image/%EA%B7%B8%EB%A6%BC3.png" width="40%">
+
+- 4학년 2학기 종합 프로젝트1,2(졸업 프로젝트) 수업 중 만든 자세 교정 프로그램
+  - 4인 팀 프로젝트 (2019.03 ~ 2019.06 / 2019.09 ~ 2019.12)
+  - Python, PYQT5, CSS, 자세인식 라이브러리 + 웹캠을 활용한 PC 프로그램
+- 담당 작업
+  - 프로그램 디자인 고안
+  - PYQT5를 이용한 GUI
+  - 자세 수치화 및 자세 평가
+  - 캔버스(Canvas)를 활용한 자세 애니메이션
+- 어려웠던 점
+  - 10월 경 팀원 2명 이탈로 인한 계획 변경 및 축소
+  - 프로젝트 상황 공유 지체에 따른 이슈 파악 지연
+  - 자세 애니메이션을 위해 자세 유추 알고리즘 구현 (고개를 숙였는지, 허리를 굽혔는지 정면 사진만으로 유추)
+  - UI를 활용하기 위한 비동기 내 오류 확인의 어려움
+- 참고
+  - [SpineAnalyzer 깃허브](https://github.com/ii200400/SpineAnalyzer/blob/master/README.md)
+  - [예시 동영상](https://www.youtube.com/watch?v=_kWLah0Zdmw&ab_channel=%EC%9E%84%EC%98%81%EC%84%A0)
 
 ### 🎪 상상놀이터
 
