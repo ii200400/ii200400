@@ -174,7 +174,7 @@
 
 <br>
 
-## 프로젝트 소개 (최근)
+## 프로젝트 소개 (최신순)
 
 ### 🛒 SVM 시스템
 
@@ -198,6 +198,7 @@
 - 성과
   - [자율 프로젝트 우수(1등)](https://user-images.githubusercontent.com/19484971/223036743-fbd697e8-d91f-453e-a8bc-6c73e2d8c1e3.png)
   - [자율 프로젝트 결선 우수 (전국 1등)](https://user-images.githubusercontent.com/19484971/223036879-cdf9fdd5-c267-4da2-8047-fa8ef5b6dea6.png)
+  - SSAFY 기업연계 부문 대표 프로젝트 선정
 - 참고
   - [SVM 시스템 노션](https://www.notion.so/3e1d6462513947d8ae359b1eb3927550)
 
@@ -292,27 +293,28 @@
 
 ### 👨‍🏫 자율주행차의 도로주행을 위한 운행체계 및 교통인프라 연구개발 사업
 
-<img src="" width="60%">
-<img src="" width="60%">
+<img src="https://github.com/ii200400/ii200400/assets/19484971/5f67bf47-4b32-4458-9ace-aab775ab7ed3" width="60%">
+<img src="https://github.com/ii200400/ii200400/assets/19484971/1c4d4ed0-5f4a-42fe-a0bb-0de36ed6545a" width="60%">
 
-> 
+> 시설물 등록과 관리 화면
 
 - 개요
-  - 
+  - 자율주행 자동차 관련 시설물 관리를 위한 안드로이드 어플리케이션 제작
   - 지오앤 회사에서의 경찰청 연구개발 프로젝트 (2020.12 ~ 2021.08, 약 7개월)
-  - 
+  - Android Studio, Kotlin, Kakao map, Blutooth LE, RESTful Hypermedia APIs
 - 담당 작업
-  - 
+  - 시설물 IoT와 측위 기기와 블루투스 통신
+  - 센터 DB와 통신하여 시설물 관리 정보 등록/수정/삭제
 - 어려웠던 점
-  - 
-
-<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/Bluetooth-0082FC?style=flat-square&logo=Bluetooth&logoColor=white"/>
+  - 디자이너의 부재로 인한 UI 및 아이콘 미비
+  - 측위 기기, 시설물 IoT, 센터 DB와 통신을 위한 프로토콜 협의
+  - DB 문제점 탐색 및 수정
 
 <br>
 
 ### 🧚‍♀️ Posture Fairy
 
-<img src="https://github.com/ii200400/SpineAnalyzer/blob/master/image/%EA%B7%B8%EB%A6%BC1.png" width="40%">  <img src="https://github.com/ii200400/SpineAnalyzer/blob/master/image/%EA%B7%B8%EB%A6%BC3.png" width="40%">
+<img src="https://github.com/ii200400/SpineAnalyzer/blob/master/image/%EA%B7%B8%EB%A6%BC1.png" width="30%">  <img src="https://github.com/ii200400/SpineAnalyzer/blob/master/image/%EA%B7%B8%EB%A6%BC3.png" width="30%">
 
 - 개요
   - 4학년 2학기 종합 프로젝트1,2(졸업 프로젝트) 수업 중 만든 자세 교정 프로그램
